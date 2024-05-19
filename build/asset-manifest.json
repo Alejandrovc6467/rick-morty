@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rick-morty/build/static/css/main.9c5ea9c8.css",
+    "main.js": "/rick-morty/build/static/js/main.ef01e2e5.js",
+    "static/js/453.24e14e44.chunk.js": "/rick-morty/build/static/js/453.24e14e44.chunk.js",
+    "static/media/rick-morty.png": "/rick-morty/build/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/rick-morty/build/index.html",
+    "main.9c5ea9c8.css.map": "/rick-morty/build/static/css/main.9c5ea9c8.css.map",
+    "main.ef01e2e5.js.map": "/rick-morty/build/static/js/main.ef01e2e5.js.map",
+    "453.24e14e44.chunk.js.map": "/rick-morty/build/static/js/453.24e14e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ea9c8.css",
+    "static/js/main.ef01e2e5.js"
+  ]
+}
